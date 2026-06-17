@@ -1,9 +1,10 @@
 <?php
 
 # arithmetic operators (+ , - , * , / , ** , %)
-$firstNumber = 15;
-$secondNumber = 4;
-$result = $firstNumber % $secondNumber;
+$firstNumber = 100;
+$secondNumber = 10;
+$FIRSTNUMBER = 50;
+$result = $firstNumber * $secondNumber / $FIRSTNUMBER ;
 // echo $result;
 // echo $firstNumber + $seconNumder;
 
@@ -16,7 +17,9 @@ $name .= " mohamed";
 $name = 5;
 // $number = $number += 2;
 // $number += 2;
-// echo $number;
+$number = 10;
+$number++;
+echo $number;
 # comparison operators ( == , != , > , < , >= , <= ,=== , !==)
 # logical operators ( OR ||, AND &&, !)
 # increment / decrement operators
@@ -37,8 +40,8 @@ $name = 5;
 #array operator
 // =>
 # escape operator
-echo "he didn't answer";
-echo "he didn\'t answer";
+// echo "he didn't answer";
+// echo "he didn\'t answer";
 #scope resoultion operator
 // ::
 # ternary operator
