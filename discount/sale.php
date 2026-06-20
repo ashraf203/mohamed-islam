@@ -27,7 +27,7 @@
                 <h1 class="text-dark text-center h1"> products </h1>
             </div>
             <div class="offset-4 col-4">
-                <form action="" method="post">
+                <form action="sale_post.php" method="post">
                     <div class="form-group">
                         <label for="name">name</label>
 
