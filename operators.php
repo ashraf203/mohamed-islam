@@ -1,10 +1,10 @@
 <?php
 
-# arithmetic operators (+ , - , * , / , ** , %)
+# arithmetic operators (+ , - , * , / , ** (1/2) , %)
 $firstNumber = 100;
 $secondNumber = 10;
 $FIRSTNUMBER = 50;
-$result = $firstNumber * $secondNumber / $FIRSTNUMBER ;
+$result = $firstNumber * $secondNumber / $FIRSTNUMBER;
 // echo $result;
 // echo $firstNumber + $seconNumder;
 

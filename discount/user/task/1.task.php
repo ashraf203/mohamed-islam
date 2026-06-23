@@ -1,3 +1,9 @@
+<form method="post" action="">
+    <input type="number" name="number1">
+    <input type="number" name="number2">
+    <input type="number" name="number3">
+    <button type="submit">submit</button>
+</form>
 <?php
 
 if ($_POST) {
@@ -25,9 +31,3 @@ if ($_POST) {
     }
 }
 ?>
-<form method="post" action="">
-    <input type="number" name="number1">
-    <input type="number" name="number2">
-    <input type="number" name="number3">
-    <button type="submit">submit</button>
-</form>
