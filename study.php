@@ -38,17 +38,6 @@ $result4 = $number2 * $number1;
 $result5 = $number1--;
 $result6 = $number2++;
 echo $result2;
-// echo $number2 / $number1;
-// echo $number3 - $number2;
-// echo  $number3 ** $number1;
-// echo $number2 * $number1;
-// $number1++;
-echo $number1;
-//  $number2--;
-// echo $number2;
-// $number3--;
-// echo $number3;
-
 
 // condition
 // if_elseif_else
@@ -57,3 +46,6 @@ echo $number1;
 // indexed array
 // associative array
 // object array
+// loop
+// foreach
+// functions
