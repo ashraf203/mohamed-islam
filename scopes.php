@@ -13,7 +13,7 @@ function Hello()
 {
     $name = "galal";
     echo $name;
-}
+} 
 
 hello();
 
