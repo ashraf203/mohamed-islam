@@ -19,8 +19,9 @@ $users = [
     ]
 ];
 
-echo $users[0]['name'];
-echo $users[1]['activities'][1];
-echo $users[0]['activities']->second;
-print_r($users[0]['activities']->first);
-echo $users[1]['activities'][0];
+// echo $users[0]['name'];
+// echo $users[1]['activities'][1];
+// echo $users[0]['activities']->second;
+// print_r($users[0]['activities']->first);
+// echo $users[1]['activities'][0];
+ 

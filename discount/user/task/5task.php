@@ -1,4 +1,4 @@
-<form method="post" action="">
+ <form method="post" action="">
     <input type="number" name="arabic">arabic
     <input type="number" name="english">english
     <input type="number" name="prog">programing
@@ -6,7 +6,6 @@
 
     <button type="submit">submit</button>
 </form>
-
 <?php
 
 if ($_POST) {

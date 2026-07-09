@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>task 1</title>
+</head>
+
+<body>
+    <"form action=" Review.php" method="post>
+      <label>phone Number:</label>
+        <input type=" text" name="phone">
+        <required>
+            <br><br>
+
+            <"inpyt type="submit" value="Next">
+                </form>
+                we will call you later on this phone
+                thanks for your review
+
+</body>
+
+</html>
