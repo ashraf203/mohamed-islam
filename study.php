@@ -49,3 +49,5 @@ echo $result2;
 // loop
 // foreach
 // functions
+// date
+// session
